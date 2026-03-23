@@ -23,8 +23,8 @@ como parte de la actividad **GA7-220501096-AA2** del SENA.
 | Módulo | Descripción | Desarrollado por |
 |---|---|---|
 | Login | Autenticación de usuarios | Ambas |
-| Usuarios | CRUD completo de usuarios del sistema | Alejo |
-| Proveedores | CRUD completo de proveedores | Compañera |
+| Usuarios | CRUD completo de usuarios del sistema | Alejandro Sepúlveda Duarte |
+| Proveedores | CRUD completo de proveedores | Lucy Estefany Izquierdo Jaramillo |
 
 ---
 
